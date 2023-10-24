@@ -1,1 +1,1 @@
-# group-project8
+In this project, we unveiled significant information regarding heart disease. We have pointed out key symptoms that arise leading to developing heart disease. We have also made comparisons between symptoms to show which is more significant in developing a heart disease.
